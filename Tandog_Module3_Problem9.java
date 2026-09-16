@@ -1,3 +1,9 @@
+/**
+ *
+ * @author Keirenz C. Tandog
+ */
+
+
 import java.util.Scanner;
 
 public class Tandog_Module3_Problem9 {
